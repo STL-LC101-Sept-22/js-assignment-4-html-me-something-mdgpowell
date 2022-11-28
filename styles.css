@@ -1,7 +1,11 @@
 /* Write your CSS here! */
 body{
     width:6in;
-    margin:auto;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: auto;
     background-color: lightcyan;
 }
 h1 {
